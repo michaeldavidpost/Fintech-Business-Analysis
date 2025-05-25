@@ -1,6 +1,6 @@
 # Fintech Business Intelligence Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 Comprehensive exploratory data analysis (EDA) of fintech company financial data to identify profit optimization opportunities and strategic business insights. This analysis examined 146,000+ financial transactions across expense and invoice data to deliver actionable recommendations ranked by business impact.
 
