@@ -152,7 +152,7 @@ python Fintech_EDA_Analysis.py
 - **Code Quality:** Well-documented, reproducible analysis suitable for production use
 - **Client Satisfaction:** Delivered premium-quality analysis meeting all requirements
 
-## 🔗 Connect
+## Connect
 
 **Michael Post, PT, DPT, DSc Candidate**  
 Healthcare Data Scientist | Clinical Researcher | Python Developer
